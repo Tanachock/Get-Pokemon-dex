@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.Card-Pokemon{
+    width: 250px;
+    margin-bottom: 10px;
+    background-color: rgba(139,197,96,255);
+    padding-top: 3px;
+    padding-left: 3px;
+    border: 2px solid rgba(102,146,71,255);
+}
+.Img-Pokemon{
+    width: 80%;
+    background-color: white;
+}
+.bold {
+    font-weight: bold;
+}
+.upper{
+    text-transform:uppercase;
+}

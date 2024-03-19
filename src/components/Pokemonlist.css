@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.Container-btn{
+    display: flex;
+    justify-content: center;
+    height: 100px;
+    margin-bottom: 10px;
+}
+.Title{
+    font-size: 30px;
+    text-align: center;
+}
+.Btn{
+    display: flex;
+    align-items: center;
+    height: 40%;
+}
+.btn-pokemon{
+    background-color: blueviolet;
+}
+
+.btn-pokemon{
+    background-color: rgba(44,103,210,255);
+    border: 0;
+    padding: 10px;
+    border-radius: 5px;
+}
+.btn-pokemon:active{
+    border: 2px solid rgb(0, 213, 255);
+}
+
+.Container-Card{
+    display: flex;
+    justify-content: center;
+}
